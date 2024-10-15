@@ -1,0 +1,11 @@
+id,name,date_of_birth,salary,department_id
+1,John Doe,1985-07-23,50000,D001
+2,Jane Smith,1990-05-14,60000,D002
+3,Robert Brown,1982-10-30,75000,D003
+4,Emily Davis,1975-12-01,80000,D004
+5,Michael Johnson,1988-09-15,55000,D001
+6,Linda Wilson,1992-03-25,62000,D002
+7,James White,1979-11-11,90000,D003
+8,Patricia Green,1987-06-10,72000,D004
+9,William Harris,1991-08-19,58000,D001
+10,Elizabeth Clark,1984-04-05,67000,D002
